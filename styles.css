@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.holder {
+	background-color:red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+	widtg:100px;
+  height: 100px; /* This is to make sure the holder takes the full viewport height */
+}
